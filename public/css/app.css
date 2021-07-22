@@ -1,0 +1,24 @@
+.box-login h3 {
+  color: #FF0000;
+}
+
+.box-dashboards {
+  display: flex;
+}
+
+.hiddens {
+  opacity: 0;
+}
+
+.loading-box {
+  text-align: center;
+  position: absolute;
+  margin-left: -10%;
+  margin-top: -5%;
+}
+
+.formHospital {
+  padding: 0;
+  margin-top: 10px;
+}
+
